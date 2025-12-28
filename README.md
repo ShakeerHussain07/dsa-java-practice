@@ -1,4 +1,4 @@
-DSA Java Practice 🚀
+DSA Java Practice 
 
 This repository contains my daily DSA and problem-solving practice in Java.
 
